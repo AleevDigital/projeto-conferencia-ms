@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.tittle("Dashboard")
+st.title("Dashboard")
 st.write("Seja bem vindo!")
