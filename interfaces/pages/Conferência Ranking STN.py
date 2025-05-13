@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime
 
-st.set_page_config(layout='wide',initial_sidebar_state = 'collapsed',page_icon ='..\..\Logo Aleev.jpg')
+st.set_page_config(layout='wide',initial_sidebar_state = 'collapsed',page_icon ='https://github.com/AleevDigital/projeto-conferencia-ms/blob/main/logo/Logo%20Aleev.jpg')
 year = datetime.now().strftime("%Y")
 last_year = int(year)-1
 
